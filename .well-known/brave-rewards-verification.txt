@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: like.community
+Token: 9a8ee2cf507eea14709e0a42565ca2071706f33024a3a80d9e6b0f95296672b7
